@@ -49,6 +49,9 @@ Aplicación movil para gestionar recetas de cocina con autenticación de usuario
 - cd appReceta
  - ng serve
  - El servidor correra en http://localhost:4200
+ - Credenciales
+   - a@gmail.com
+   - admin123
 
 ## 📄 Licencia
 Este proyecto está bajo la Licencia ISC - ver el archivo LICENSE.md para detalles
