@@ -1,0 +1,56 @@
+# Dependencies
+**/node_modules/
+**/package-lock.json
+
+# Environment
+**/.env
+**/.env.local
+**/.env.*.local
+
+# Frontend (Angular)
+appReceta/.angular/
+appReceta/dist/
+appReceta/tmp/
+appReceta/out-tsc/
+appReceta/bazel-out/
+appReceta/.angular/cache/
+**/dist/
+**/.angular/cache/
+
+# Backend
+backend/dist/
+backend/build/
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Logs
+**/logs
+**/*.log
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+
+# Testing
+**/coverage/
+**/.nyc_output/
+
+# Compiled JavaScript
+**/*.js.map
+**/*.js.map
+
+# Cache
+**/.angular/cache/
+**/.sass-cache/
+**/connect.lock
