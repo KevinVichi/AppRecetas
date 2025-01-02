@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# AppRecetas
-=======
 # App de Recetas
 
 Aplicación web para gestionar recetas de cocina con autenticación de usuarios y almacenamiento persistente.
@@ -57,5 +54,4 @@ Aplicación web para gestionar recetas de cocina con autenticación de usuarios 
 Este proyecto está bajo la Licencia ISC - ver el archivo LICENSE.md para detalles
 
 ✨ Autores
-Kevin Vichi
->>>>>>> 8513843 (Create README.md)
+Kevin Vichicela
