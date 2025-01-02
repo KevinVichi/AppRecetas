@@ -1,6 +1,6 @@
 # App de Recetas
 
-Aplicación web para gestionar recetas de cocina con autenticación de usuarios y almacenamiento persistente.
+Aplicación movil para gestionar recetas de cocina con autenticación de usuarios y almacenamiento persistente.
 
 ## 🚀 Características
 
